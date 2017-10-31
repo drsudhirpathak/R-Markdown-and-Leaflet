@@ -1,6 +1,6 @@
 Course Project - Shiny Application and Reproducible Pitch
 ========================================================
-author: Sudhir Pathak 
+Author: Sudhir Pathak 
 date: 10 October 2017
 autosize: true
 
@@ -9,9 +9,9 @@ Overview
 
 This was built for the course: **Developing Data Products** as part of the Coursera Data Science Specialization.
 
-The shiny app developed for this assignment is avalilable: https://github.com/drsudhirpathak/DataProducts/Shiny-Application-and-Reproducible-Pitch/
+The shiny app developed for this assignment is avalilable: https://github.com/drsudhirpathak/DataProducts/Shiny-Application-and-Reproducible-Pitch
 
-The source codes of ui.R and server.R and also Rpresentation are available on the GitHub repo: https://github.com/jeeweshjha/DataProducts/Shiny-Application-and-Reproducible-Pitch/
+The source codes of ui.R and server.R and also Rpresentation are available on the GitHub repo: https://github.com/drsudhirpathak/DataProducts/Shiny-Application-and-Reproducible-Pitch
 
 Exam Marks Calculation and Interpretation
 ========================================================
